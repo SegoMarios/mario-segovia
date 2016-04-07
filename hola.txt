@@ -1,5 +1,5 @@
-drupalcam Guadalajara
-hola
-Mi primer repo
+Drupalcam Guadalajara
+Hola
+Mi primer reporte
 de nuevo editado
 con nuevos cambios
